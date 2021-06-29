@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://friendly-boyd-268dbc.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
